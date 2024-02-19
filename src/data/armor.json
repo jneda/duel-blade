@@ -1,0 +1,108 @@
+{
+  "armorChoices": [
+    {
+      "name": "Breast Plate",
+      "type": "Heavy (Chest)",
+      "attributes": {
+        "evasion": 9,
+        "deflection": 5
+      }
+    },
+    {
+      "name": "Chain Bracers",
+      "type": "Medium (Arms)",
+      "attributes": {
+        "evasion": 10,
+        "deflection": 4
+      }
+    },
+    {
+      "name": "Chain Coif",
+      "type": "Medium (Head)",
+      "attributes": {
+        "evasion": 11,
+        "deflection": 3
+      }
+    },
+    {
+      "name": "Chain Leggings",
+      "type": "Medium (Legs)",
+      "attributes": {
+        "evasion": 10,
+        "deflection": 4
+      }
+    },
+    {
+      "name": "Chain Vest",
+      "type": "Medium (Chest)",
+      "attributes": {
+        "evasion": 10,
+        "deflection": 4
+      }
+    },
+    {
+      "name": "Leather Bracers",
+      "type": "Light (Arms)",
+      "attributes": {
+        "evasion": 11,
+        "deflection": 3
+      }
+    },
+    {
+      "name": "Leather Breaches",
+      "type": "Light (Legs)",
+      "attributes": {
+        "evasion": 11,
+        "deflection": 3
+      }
+    },
+    {
+      "name": "Leather Cap",
+      "type": "Light (Head)",
+      "attributes": {
+        "evasion": 11,
+        "deflection": 3
+      }
+    },
+    {
+      "name": "Leather Vest",
+      "type": "Light (Chest)",
+      "attributes": {
+        "evasion": 11,
+        "deflection": 3
+      }
+    },
+    {
+      "name": "Plate Bracers",
+      "type": "Heavy (Arms)",
+      "attributes": {
+        "evasion": 9,
+        "deflection": 5
+      }
+    },
+    {
+      "name": "Plate Helm",
+      "type": "Heavy (Head)",
+      "attributes": {
+        "evasion": 9,
+        "deflection": 5
+      }
+    },
+    {
+      "name": "Plate Leggings",
+      "type": "Heavy (Legs)",
+      "attributes": {
+        "evasion": 9,
+        "deflection": 5
+      }
+    },
+    {
+      "name": "Shield",
+      "type": "See shield rules",
+      "attributes": {
+        "evasion": -1,
+        "deflection": 1
+      }
+    }
+  ]
+}

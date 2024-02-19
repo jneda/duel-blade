@@ -1,0 +1,109 @@
+{
+  "weaponChoices": [
+    {
+      "name": "Battle Axe",
+      "type": "Medium",
+      "attributes": {
+        "accuracy": 3,
+        "power": 11
+      }
+    },
+    {
+      "name": "Broad Sword",
+      "type": "Medium",
+      "attributes": {
+        "accuracy": 3,
+        "power": 11
+      }
+    },
+    {
+      "name": "Club",
+      "type": "Light",
+      "attributes": {
+        "accuracy": 4,
+        "power": 10
+      }
+    },
+    {
+      "name": "Dagger",
+      "type": "Light",
+      "attributes": {
+        "accuracy": 4,
+        "power": 10
+      }
+    },
+    {
+      "name": "Great Axe",
+      "type": "Heavy (two hands)",
+      "attributes": {
+        "accuracy": 2,
+        "power": 12
+      }
+    },
+    {
+      "name": "Great Sword",
+      "type": "Heavy (two hands)",
+      "attributes": {
+        "accuracy": 2,
+        "power": 12
+      }
+    },
+    {
+      "name": "Mace",
+      "type": "Light",
+      "attributes": {
+        "accuracy": 4,
+        "power": 10
+      }
+    },
+    {
+      "name": "Maul",
+      "type": "Heavy (two hands)",
+      "attributes": {
+        "accuracy": 2,
+        "power": 12
+      }
+    },
+    {
+      "name": "Quarter Staff",
+      "type": "Medium (two hands)",
+      "attributes": {
+        "accuracy": 3,
+        "power": 11
+      }
+    },
+    {
+      "name": "Long Spear",
+      "type": "Heavy (two hands)",
+      "attributes": {
+        "accuracy": 2,
+        "power": 12
+      }
+    },
+    {
+      "name": "Spear",
+      "type": "Medium",
+      "attributes": {
+        "accuracy": 3,
+        "power": 11
+      }
+    },
+    {
+      "name": "War Hammer",
+      "type": "Medium",
+      "attributes": {
+        "accuracy": 3,
+        "power": 11
+      }
+    },
+    {
+      "name": "Off-hand Dagger (parrying weapon)",
+      "type": "Light",
+      "attributes": {
+        "accuracy": 4,
+        "power": 10,
+        "shield_penalty": true
+      }
+    }
+  ]
+}
